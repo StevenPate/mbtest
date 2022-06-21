@@ -1,0 +1,58 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Steven Pate",
+	"icon": "https://micro.blog/stevenpate/avatar.jpg",
+	"home_page_url": "https://stevenpate.micro.blog/",
+	"feed_url": "https://stevenpate.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://stevenpate.micro.blog/2022/06/20/well-ok.html",
+				
+				"content_html": "<p>well&hellip; <strong>ok</strong>!!</p>\n",
+				"content_text": "well... **ok**!!\n",
+				"date_published": "2022-06-20T20:08:55-07:00",
+				"url": "https://stevenpate.micro.blog/2022/06/20/well-ok.html"
+			},
+			{
+				"id": "http://stevenpate.micro.blog/2022/02/27/newest.html",
+				
+				"content_html": "<p>newest</p>\n",
+				"content_text": "newest\n",
+				"date_published": "2022-02-27T13:46:38-07:00",
+				"url": "https://stevenpate.micro.blog/2022/02/27/newest.html"
+			},
+			{
+				"id": "http://stevenpate.micro.blog/2022/02/27/newer.html",
+				
+				"content_html": "<p>newer</p>\n",
+				"content_text": "newer\n",
+				"date_published": "2022-02-27T13:44:51-07:00",
+				"url": "https://stevenpate.micro.blog/2022/02/27/newer.html"
+			},
+			{
+				"id": "http://stevenpate.micro.blog/2022/02/27/new-test.html",
+				
+				"content_html": "<p>new <em>test</em></p>\n",
+				"content_text": "new *test*\n",
+				"date_published": "2022-02-27T13:38:59-07:00",
+				"url": "https://stevenpate.micro.blog/2022/02/27/new-test.html"
+			},
+			{
+				"id": "http://stevenpate.micro.blog/2021/11/16/005231.html",
+				"title": "The Bookstore is My Mountain",
+				"content_html": "<p><img src=\"https://stevenpate.micro.blog/uploads/2021/bf22d0a83f.jpg\" alt=\"\" /></p>\n\n<p>And here is where I chart my course towards and up it. This is the story of everything that happens from now until the Bookstore&hellip;</p>\n",
+				"content_text": "![](https://stevenpate.micro.blog/uploads/2021/bf22d0a83f.jpg)\n\nAnd here is where I chart my course towards and up it. This is the story of everything that happens from now until the Bookstore...\n\n",
+				"date_published": "2021-11-16T01:52:00-07:00",
+				"url": "https://stevenpate.micro.blog/2021/11/16/005231.html"
+			},
+			{
+				"id": "http://stevenpate.micro.blog/2021/11/16/theres-testing-and.html",
+				
+				"content_html": "<p>There&rsquo;s testing and then there&rsquo;s <em>testing</em>.</p>\n\n<p>This, of course, is good old fashioned 👨‍🔬 <em>testing</em>.</p>\n",
+				"content_text": "There's testing and then there's *testing*. \n\nThis, of course, is good old fashioned 👨‍🔬 _testing_.\n",
+				"date_published": "2021-11-16T01:30:30-07:00",
+				"url": "https://stevenpate.micro.blog/2021/11/16/theres-testing-and.html"
+			}
+	]
+}
