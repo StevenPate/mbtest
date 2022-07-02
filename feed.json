@@ -7,28 +7,21 @@
 	"items": [
 		
 			{
-				"id": "http://stevenpate.micro.blog/2022/06/20/well-ok.html",
-				
-				"content_html": "<p>well&hellip; <strong>ok</strong>!!</p>\n",
-				"content_text": "well... **ok**!!\n",
-				"date_published": "2022-06-20T20:08:55-07:00",
-				"url": "https://stevenpate.micro.blog/2022/06/20/well-ok.html"
+				"id": "http://stevenpate.micro.blog/2022/06/20/tonight-i-tweaked.html",
+				"title": "CSS is hard to tackle piecemeal",
+				"content_html": "<p>Tonight I tweaked the markup and fiddled with the tailwind classes  on <a href=\"https://bookshelves.dev\">bookshelves.dev</a> to get the featured items on the homepage to bother me less.</p>\n\n<p>Since they look like cards, I wanted the whole thing to be clickable. But wrapping the existing markup in an anchor tag of course messed with the colors and text-decoration, so I had to track down how to extend the tailwind.config. Then I wanted some subtle hover animation and finally feel better about that. I liked it enough to implement it for the card component layouts of the shelf and book shortcodes across the site. Along the way, I also eliminated a couple of things that were wonky at intermediate breakpoints.</p>\n\n<p>Overall I still feel really unhappy with the clunkiness of the visual design and the haphazard feeling of the markup and the chaos of tailwind classes. But it hurts me a little bit less.</p>\n\n<p>I sure wish I had time to go deep on the css from scratch. But there are other things I really want to be doing on the site right now. Fiddling with these little things is a luxury I don&rsquo;t often afford myself lately.</p>\n",
+				"content_text": "Tonight I tweaked the markup and fiddled with the tailwind classes  on [bookshelves.dev](https://bookshelves.dev) to get the featured items on the homepage to bother me less. \n\nSince they look like cards, I wanted the whole thing to be clickable. But wrapping the existing markup in an anchor tag of course messed with the colors and text-decoration, so I had to track down how to extend the tailwind.config. Then I wanted some subtle hover animation and finally feel better about that. I liked it enough to implement it for the card component layouts of the shelf and book shortcodes across the site. Along the way, I also eliminated a couple of things that were wonky at intermediate breakpoints.\n\nOverall I still feel really unhappy with the clunkiness of the visual design and the haphazard feeling of the markup and the chaos of tailwind classes. But it hurts me a little bit less.\n\nI sure wish I had time to go deep on the css from scratch. But there are other things I really want to be doing on the site right now. Fiddling with these little things is a luxury I don't often afford myself lately.\n",
+				"date_published": "2022-06-20T21:58:54-07:00",
+				"url": "https://stevenpate.micro.blog/2022/06/20/tonight-i-tweaked.html",
+				"tags": ["bookshelves","web development"]
 			},
 			{
-				"id": "http://stevenpate.micro.blog/2022/02/27/newest.html",
+				"id": "http://stevenpate.micro.blog/2022/06/20/again.html",
 				
-				"content_html": "<p>newest</p>\n",
-				"content_text": "newest\n",
-				"date_published": "2022-02-27T13:46:38-07:00",
-				"url": "https://stevenpate.micro.blog/2022/02/27/newest.html"
-			},
-			{
-				"id": "http://stevenpate.micro.blog/2022/02/27/newer.html",
-				
-				"content_html": "<p>newer</p>\n",
-				"content_text": "newer\n",
-				"date_published": "2022-02-27T13:44:51-07:00",
-				"url": "https://stevenpate.micro.blog/2022/02/27/newer.html"
+				"content_html": "<p>again?</p>\n",
+				"content_text": "again?\n",
+				"date_published": "2022-06-20T20:24:18-07:00",
+				"url": "https://stevenpate.micro.blog/2022/06/20/again.html"
 			},
 			{
 				"id": "http://stevenpate.micro.blog/2022/02/27/new-test.html",
