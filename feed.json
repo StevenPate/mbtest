@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://stevenpate.micro.blog/2023/03/18/today-in-great.html",
+				
+				"content_html": "<p>Today in “Great Newsletters”: Ann Boyer’s <a href=\"https://anneboyer.substack.com/\">Mirabilary</a> compels me to find a copy of The Red Wheelbarrow:</p>\n\n<p><a href=\"https://anneboyer.substack.com/p/100-years-of-spring-and-all\">100 Years of Apring and All</a></p>\n",
+				"content_text": "Today in “Great Newsletters”: Ann Boyer’s [Mirabilary](https://anneboyer.substack.com/) compels me to find a copy of The Red Wheelbarrow:\n\n[100 Years of Apring and All](https://anneboyer.substack.com/p/100-years-of-spring-and-all)\n",
+				"date_published": "2023-03-18T09:14:23-08:00",
+				"url": "https://stevenpate.micro.blog/2023/03/18/today-in-great.html"
+			},
+			{
 				"id": "http://stevenpate.micro.blog/2022/11/15/currently-reading-liberation.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780525509592\">Liberation Day</a> by George Saunders 📚</p>\n",
