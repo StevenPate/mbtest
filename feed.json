@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://stevenpate.micro.blog/2024/02/22/paul-yamazaki-is.html",
+				"title": "Paul Yamazaki is the GOAT",
+				"content_html": "<p><a href=\"https://www.theparisreview.org/blog/2024/02/20/reading-the-room-an-interview-with-paul-yamazaki/?\">Reading the Room: An Interview with Paul Yamazaki</a>\n &gt;  My faith in the reader is profound. Our role is to bring them to a new door, to a new room. We are trying to choose the best of what’s out there. How do we arrive at the best? Reading and conversations with other readers, other booksellers. If a book comes into your hands and you find yourself moved by it, ask, How did this find me? Answers to that question will always be fruitful and will always make you a better bookseller.</p>\n",
+				"content_text": "[Reading the Room: An Interview with Paul Yamazaki](https://www.theparisreview.org/blog/2024/02/20/reading-the-room-an-interview-with-paul-yamazaki/?)\r\n >  My faith in the reader is profound. Our role is to bring them to a new door, to a new room. We are trying to choose the best of what’s out there. How do we arrive at the best? Reading and conversations with other readers, other booksellers. If a book comes into your hands and you find yourself moved by it, ask, How did this find me? Answers to that question will always be fruitful and will always make you a better bookseller.\n",
+				"date_published": "2024-02-22T09:21:05-08:00",
+				"url": "https://stevenpate.micro.blog/2024/02/22/paul-yamazaki-is.html"
+			},
+			{
 				"id": "http://stevenpate.micro.blog/2023/12/27/this-article-about.html",
 				
 				"content_html": "<p><a href=\"https://www.nytimes.com/interactive/2023/07/28/business/starlink.html\">This article about (and visualization of) the Starlink satellites in low-earth orbit</a> will make you fear for the future of the night sky as seen here from Earth.</p>\n",
@@ -66,8 +74,8 @@
 			{
 				"id": "http://stevenpate.micro.blog/2022/10/20/we-have-been.html",
 				
-				"content_html": "<p>We have been waiting and waiting for rain here, and since it was sprinkling all morning I decided to string up a tarp and hammock in the back yard with the notion of opening a new book and scrutinizing my own eyelids for about an hour. Of course this means the rain stops. Of course.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/55027/2022/4cbb73ece2.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "We have been waiting and waiting for rain here, and since it was sprinkling all morning I decided to string up a tarp and hammock in the back yard with the notion of opening a new book and scrutinizing my own eyelids for about an hour. Of course this means the rain stops. Of course. \n\n<img src=\"https://cdn.uploads.micro.blog/55027/2022/4cbb73ece2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>We have been waiting and waiting for rain here, and since it was sprinkling all morning I decided to string up a tarp and hammock in the back yard with the notion of opening a new book and scrutinizing my own eyelids for about an hour. Of course this means the rain stops. Of course.</p>\n\n<p><img src=\"uploads/2022/4cbb73ece2.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "We have been waiting and waiting for rain here, and since it was sprinkling all morning I decided to string up a tarp and hammock in the back yard with the notion of opening a new book and scrutinizing my own eyelids for about an hour. Of course this means the rain stops. Of course. \n\n<img src=\"uploads/2022/4cbb73ece2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-20T12:18:28-08:00",
 				"url": "https://stevenpate.micro.blog/2022/10/20/we-have-been.html"
 			},
@@ -127,8 +135,8 @@
 			{
 				"id": "http://stevenpate.micro.blog/2021/11/16/005231.html",
 				"title": "The Bookstore is My Mountain",
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/55027/2021/bf22d0a83f.jpg\" alt=\"\" /></p>\n",
-				"content_text": "![](https://cdn.uploads.micro.blog/55027/2021/bf22d0a83f.jpg)\n",
+				"content_html": "<p><img src=\"https://stevenpate.micro.blog/uploads/2021/bf22d0a83f.jpg\" alt=\"\" /></p>\n",
+				"content_text": "![](https://stevenpate.micro.blog/uploads/2021/bf22d0a83f.jpg)\n",
 				"date_published": "2021-11-16T00:52:00-08:00",
 				"url": "https://stevenpate.micro.blog/2021/11/16/005231.html"
 			}
